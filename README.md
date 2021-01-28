@@ -2,8 +2,6 @@
 Vue.js ver.2 Training (exercise)
 
 
-# vuex-cc
-
 ## Project setup
 ```
 npm install
